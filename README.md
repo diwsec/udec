@@ -1,6 +1,6 @@
 # urldecoder
 
-scipt for decoding bunch of urls
+script for decoding bunch of urls
 
 # usage
 
