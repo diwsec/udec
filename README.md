@@ -8,7 +8,9 @@ small script for decoding and encoding bunch of urls
 
 # usage
 
-cat urls.txt | udec
+> for encoding `cat urls.txt | udec`
+
+> for decoding `cat urls.txt | udec -d`
 
 # credits
 
